@@ -1,0 +1,28 @@
+.right-section{
+    width: 270px;
+    height: 640px;
+    margin-top: 76px; 
+    background: #F5F5F5;
+    // display: flex;
+    // justify-content: center;
+    
+
+    .tips_Btn{
+        width: 220px;
+        height: 40px;
+        margin-top: 50px;
+        background: $gradientColor;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    .tips_Btn:hover{
+        .modal{
+            display: block;
+        }
+    }
+}
+    

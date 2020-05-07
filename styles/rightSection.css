@@ -1,0 +1,24 @@
+.right-section {
+  width: 270px;
+  height: 640px;
+  margin-top: 76px;
+  background: #F5F5F5;
+}
+
+.right-section .tips_Btn {
+  width: 220px;
+  height: 40px;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0.09%, #9c2686), to(#e71324));
+  background: linear-gradient(to right, #9c2686 0.09%, #e71324 100%);
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=rightSection.css.map */

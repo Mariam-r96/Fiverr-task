@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAA;EACV,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,OAAO;CAetB;;AAnBD,AASI,cATU,CASV,SAAS,CAAA;EACL,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EAEZ,UAAU,EAAE,sDAAqD;EACjE,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;CAC1B",
+    "sources": [
+        "rightSection.scss"
+    ],
+    "names": [],
+    "file": "rightSection.css"
+}

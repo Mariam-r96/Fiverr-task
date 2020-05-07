@@ -1,0 +1,61 @@
+@import "./variables.scss";
+@import "./header.scss";
+@import "./imageContainer.scss";
+@import "./subHeading.scss";
+@import "./rightSection.scss";
+@import "./mediaScreen.scss";
+@import "./popupBox.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@mixin flexCenter($height){
+    display: flex;
+    height: $height;
+}
+
+body{
+margin: 0;
+height: 100vh;
+font-family: $font;
+color: $fontColor;
+
+
+}
+
+#app{
+@include flexCenter(100%);  
+padding: 0rem 13rem 0rem 13rem;
+}
+
+.left-section{
+
+@include flexCenter(100vh);
+flex-wrap: wrap;
+// margin-left: 267px;
+// width: $commonWidth;
+
+    h2{
+
+        font-weight: bold;
+        width: $commonWidth;
+    
+    }
+
+    p{
+        width: $commonWidth;
+
+    }
+ 
+    .para1{
+        
+        margin-top: 28px;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        
+    }
+
+   
+}
+
+

@@ -1,0 +1,14 @@
+.imageContainer{
+    margin-top: 22px;
+    margin-bottom: 22px;
+    height: 331px;
+    width: $commonWidth;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+
+.imageContainer img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

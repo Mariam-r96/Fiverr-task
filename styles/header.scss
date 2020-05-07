@@ -1,0 +1,27 @@
+
+
+.heading{
+ margin-top: 76px;  
+font-size: 26px;
+line-height: 31px;
+}
+
+h2{
+
+    font-weight: bold;
+    width: $commonWidth;
+   
+}
+
+ hr{
+    width: $commonWidth;
+    height: 1px;
+   margin-left: unset;
+    background-position: 0px 0px;
+    background: $gradientColor;
+    }
+
+    // p{
+    //     width: $commonWidth;
+
+    // }

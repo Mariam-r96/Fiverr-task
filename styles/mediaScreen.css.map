@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,MAAM,MAAM,MAAM,gBAAgB,EAAE,KAAK;EAC3C,6DAA6D;EAE7D,AAAA,IAAI,CAAA;IACA,cAAc,EAAE,MAAM;IACtB,OAAO,EAAE,MAAM;GAClB",
+    "sources": [
+        "mediaScreen.scss"
+    ],
+    "names": [],
+    "file": "mediaScreen.css"
+}
